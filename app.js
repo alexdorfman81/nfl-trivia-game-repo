@@ -76,6 +76,7 @@ chB.style.display = 'none';
 chC.style.display = 'none';
 chD.style.display = 'none';
 next.style.display = 'none';
+start.style.display = 'block';
 intro.style.display = 'none';
 next.style.display = 'none';
 start.style.display = 'center-y';

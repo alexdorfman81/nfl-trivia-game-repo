@@ -15,7 +15,7 @@ body {
   text-decoration-color: blue;
 }
 
-.btn {
+.btn, .start-btn {
   box-sizing: border-box;
   height: 100px;
   width: 400px;
@@ -32,6 +32,7 @@ body {
   font-size: 15vmax;
   color: aqua;
   text-size-adjust: 100px;
+  text-align: center;
 }
 .score{
   position: fixed;
@@ -40,7 +41,7 @@ body {
   font-size: x-large;
 
 }
-.start-button {
+.start-btn {
   box-sizing: border-box;
   height: 100px;
   width: 400px;
@@ -51,4 +52,5 @@ body {
   font-size: x-large;
   text-align: center;
   text-emphasis-position: center;
+  text-align: center;
 }
